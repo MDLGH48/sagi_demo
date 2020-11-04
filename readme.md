@@ -41,7 +41,7 @@ source sagi_env/bin/activate
 ## 6. install packages inside environment [terminal]
 
 ```console
-pip install numpy opencv-python
+pip install -r requirements.txt
 ```
 
 ## 7. run `main.py`
